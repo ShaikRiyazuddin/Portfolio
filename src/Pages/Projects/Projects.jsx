@@ -11,17 +11,20 @@ import Typography from "@material-ui/core/Typography";
 import {projects} from './ProjectData'
 import "./Projects.css";
 import Grid from '@material-ui/core/Grid';
+// import Aos from "aos";
+// import "aos/dist/aos.css";
 
 
 
 const useStyles = makeStyles ({
   card: {
+    
     maxWidth: 350,
     margin: "auto",
     transition: "0.3s",
     boxShadow: "0 8px 40px -12px rgba(0,0,0,0.3)",
     "&:hover": {
-      boxShadow: "0 0 15px"
+      boxShadow: "0 0 15px rgb(0,255,255)"
     }
   },
   media: {
