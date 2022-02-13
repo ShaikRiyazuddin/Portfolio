@@ -47,7 +47,7 @@ export const projects = [
     project_name: "Pantaloons Clone",
     project_image: Project1,
     Project_description:
-      "An online shopping Application, Implemented CRUD operations with HTML, CSS and JAVASCRIPT",
+      "An e-commerce web application where we can purchase avariety of garments, Implemented CRUD operations with HTML, CSS and Javascript",
     github_link: "https://github.com/ShaikRiyazuddin/Pantaloons.git",
     deployed_link: "https://shaikriyazuddin.github.io/Pantaloons/",
     technologies: [HTML5, CSS3, JAVASCRIPT],
@@ -56,7 +56,7 @@ export const projects = [
     project_name: "Intershala Clone",
     project_image: Project2,
     Project_description:
-      "An online shopping Application, Implemented CRUD operations with HTML, CSS, JAVASCRIPT, BOOTSTRAP, NODEJS, EXPRESS, MONGODB",
+      "Web application to search for internships & jobs all over India, Implemented CRUD operations with HTML, CSS, Javascript, Bootstrap, nodeJS, Express,MongoDB",
     github_link: "https://github.com/ShaikRiyazuddin/Intershala-Clone.git",
     deployed_link: "http://sampleclone-env.eba-9dmzyuuw.us-west-2.elasticbeanstalk.com/",
     technologies: [HTML5, CSS3, JAVASCRIPT, BOOTSTRAP,NODE_JS,EXPRESS,MONGODB],
