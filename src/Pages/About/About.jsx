@@ -46,7 +46,7 @@ function About() {
                            </div>
 
                            <div className = "about-links">
-                           <a href = "https://drive.google.com/file/d/1aDvcA-WnVc31KNyMP3s_j9qUQo3lmh52/view?usp=sharing" target="_blank" rel="noopener noreferrer" className = "about-btn">Resume</a>
+                           <a href = "https://drive.google.com/file/d/1UlYvcBHAnzhaChRRXDBSqVNIteaaae2j/view?usp=sharing" target="_blank" rel="noopener noreferrer" className = "about-btn">Resume</a>
                            <a href = "https://www.linkedin.com/in/riyazuddin-shaik/" target="_blank" rel="noopener noreferrer" className = "about-btn">LinkedIn</a>
                            <a href = "https://github.com/ShaikRiyazuddin" target="_blank" rel="noopener noreferrer" className = "about-btn">Github</a>
                            </div>

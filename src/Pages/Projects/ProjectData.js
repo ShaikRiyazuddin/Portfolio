@@ -28,7 +28,7 @@ import GIT from "../../assets/img/skills/git-icon.svg";
 import HEROKU from "../../assets/img/skills/heroku.svg";
 import DIGITAOCEAN from "../../assets/img/skills/digital-ocean.svg";
 import GITHUB_PAGES from "../../assets/img/skills/github.svg";
-import JAVASCRIPT from "../../assets/img/skills/javascript.svg";
+import JAVASCRIPT from "../../assets/img/skills/javascript1.svg";
 import TYPESCRIPT from "../../assets/img/skills/typescript.svg";
 import GOLANG from "../../assets/img/skills/go-6.svg";
 import PYTHON from "../../assets/img/skills/python.svg";
