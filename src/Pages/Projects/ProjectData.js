@@ -1,9 +1,10 @@
 import Project1 from "../../assets/img/projects/pantaloons.png";
 import Project2 from "../../assets/img/projects/Intershala.png";
+import Project3 from "../../assets/img/projects/Myntra.png";
 
 // import Project2 from "../../assets/img/projects/rememberTheMilk.png";
 // import Project3 from "../../assets/img/projects/amazon.png";
-// import Project4 from "../../assets/img/projects/ventureBeat.jpg";
+import Project4 from "../../assets/img/projects/ventureBeat.jpg";
 // import Project5 from "../../assets/img/projects/weather.png";
 // import Project6 from "../../assets/img/projects/student-database.png";
 // import Project7 from "../../assets/img/projects/todo-app.png";
@@ -12,9 +13,10 @@ import CSS3 from "../../assets/img/skills/css3.svg";
 import SASS from "../../assets/img/skills/sass-1.svg";
 import BOOTSTRAP from "../../assets/img/skills/bootstrap-4.svg";
 import REACT from "../../assets/img/skills/react.svg";
-import REDUX from "../../assets/img/skills/redux.svg";
+import REDUX from "../../assets/img/skills/redux.png";
 import REACT_ROUTER from "../../assets/img/skills/react-router.svg";
-import MATERIALUI from "../../assets/img/skills/material-ui-1.svg";
+// import MATERIALUI from "../../assets/img/skills/material-ui-1.svg";
+import MATERIALUI from "../../assets/img/skills/materialUi.png";
 import REACT_BOOTSTRAP from "../../assets/img/skills/react-bootstrap.svg";
 import STYLED_COMPONENTS from "../../assets/img/skills/styled-components.svg";
 import NODE_JS from "../../assets/img/skills/nodejs.png";
@@ -61,15 +63,15 @@ export const projects = [
     deployed_link: "http://sampleclone-env.eba-9dmzyuuw.us-west-2.elasticbeanstalk.com/",
     technologies: [HTML5, CSS3, JAVASCRIPT, BOOTSTRAP,NODE_JS,EXPRESS,MONGODB],
   },
-  // {
-  //   project_name: "Amazon.com Clone",
-  //   project_image: Project3,
-  //   Project_description:
-  //     "Cloned amazon.com website perfectly, a user can signup and signin with google and add items to cart. Technologies used are React, Firebase",
-  //   github_link: "https://github.com/faizitguy/amazon-clone/tree/master",
-  //   deployed_link: "https://clone-2be4b.web.app/",
-  //   technologies: [HTML5, CSS3, JAVASCRIPT, REACT, MATERIALUI],
-  // },
+  {
+    project_name: "Myntra Clone",
+    project_image: Project3,
+    Project_description:
+      "Cloned myntra.com website perfectly, a user can signup and signin with google and add items to cart. Technologies used are React, Firebase",
+    github_link: "https://github.com/ShaikRiyazuddin/Myntra_Clone.git",
+    deployed_link: "https://myntraweb13.netlify.app/",
+    technologies: [CSS3, JAVASCRIPT, REACT, REDUX, MATERIALUI],
+  },
   // {
   //   project_name: "VentureBeat.com Clone",
   //   project_image: Project4,
