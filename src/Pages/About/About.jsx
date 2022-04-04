@@ -29,7 +29,7 @@ function About() {
                 <br />
                 Aspiring full-Stack developer skilled in all aspects of
                 front-end and MERN stack technologies. Looking forward to
-                bringing creative and strong technical skills to the working
+                bring creative and strong technical skills to the working
                 environment.
                 <br />
                 <br />
