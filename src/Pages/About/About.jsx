@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import AboutImage from "../../images/riyaz_about.png";
+import AboutImage from "../../images/aboutImg.jpg";
 import Button from "react-bootstrap/Button";
 import GitHubIcon from "@material-ui/icons/GitHub";
 import EmailIcon from "@material-ui/icons/Email";
@@ -20,22 +20,27 @@ function About() {
             </div>
           </div>
           <div className="row">
-            <div className="about-img">
-              <div className="img-box">
-                <img src={AboutImage} alt="about-image" />
-              </div>
-            </div>
+            
             <div className="about-info">
               <p>
-                <h6>Hi! My name is Riyazuddin Shaik </h6>
-                Aspiring Full Stack Developer, Capable of writing
-                production-ready code using ReactJS, Redux, and CSS on the
-                frontend, NodeJS, Express, and MongoDB on the backend to build
-                single-page applications. Efficient team manager with experience
-                in handling a team. Very Passionate about coding and strongly
-                interested in working in a product-based company.
+                <h6>Hi! I am Shaik Riyazuddin</h6>
+                🏡 I am from Kadapa, Andhra Pradesh.
+                <br />
+                <br />
+                Aspiring full-Stack developer skilled in all aspects of
+                front-end and MERN stack technologies. Looking forward to
+                bringing creative and strong technical skills to the working
+                environment.
+                <br />
+                <br />
+                Keen to build and develop high-quality user-friendly platforms
+                by using my technical knowledge and skills.
+                <br />
+                <br />
+                Eager to obtain a challenging position at a dynamic company to
+                enhance my learning and contribute to exciting projects.
               </p>
-              <div className="about-desc">
+              {/* <div className="about-desc">
                 <div className="about-desc-icon">
                   {" "}
                   <CallIcon />
@@ -53,8 +58,8 @@ function About() {
                     Kadapa, Andhra Pradesh
                   </sapn>
                 </div>
-              </div>
-
+              </div> */}
+{/* 
               <div className="about-links">
                 <a
                   href="https://drive.google.com/file/d/1Gj0i9uAF384YyKSlC23-iGvF6nJ8cz9r/view?usp=sharing"
@@ -80,9 +85,14 @@ function About() {
                 >
                   Github
                 </a>
-              </div>
+              </div> */}
 
               <div></div>
+            </div>
+            <div className="about-img">
+              <div className="img-box">
+                <img src={AboutImage} alt="about-image" />
+              </div>
             </div>
           </div>
         </div>

@@ -49,7 +49,7 @@
   text-transform: capitalize;
 }
 .home-section .home-img .img-box {
-  max-width: 405px;
+  max-width: 375px;
   display: block;
   margin: auto;
   border-radius: 50%;
@@ -58,9 +58,9 @@
 
 .home-section .home-img .img-box img {
   /* width: 90%; */
-  width:97%;
+  width:98%;
   border-radius: 50%;
-  margin-left: 10px;
+  margin-left: 5px;
 }
 
 .home-section .home-img .img-box {
@@ -74,7 +74,7 @@
 }
 
 .about-me-btn {
-  box-shadow: 0 0 15px;
+  box-shadow: 0 0 10px;
   text-decoration: none;
   font-size: 18px;
   font-weight: 500;

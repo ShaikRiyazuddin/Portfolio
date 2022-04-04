@@ -5,6 +5,8 @@ import TitleMessage from './Title'
 import Nav from "react-bootstrap/Nav";
 import Particle from '../../Particle'
 import {Link} from 'react-router-dom'
+import AboutImage from "../../images/profile_pic.png";
+
 
 function Home() {
     return (
@@ -18,15 +20,23 @@ function Home() {
                             <h2>I'm Riyaz</h2>
                             <h1 className = "title"> <TitleMessage/></h1>.
                          
-                            <Nav.Link href = "#about" style = {{textDecoration:"none"}}>
+                            {/* <Nav.Link href = "#about" style = {{textDecoration:"none"}}>
                             <div  className = "about-me-btn">
                             More About me
                             </div>
-                            </Nav.Link>
+                            </Nav.Link> */}
+                            <a style = {{textDecoration:"none"}}
+                            href="https://drive.google.com/file/d/1Gj0i9uAF384YyKSlC23-iGvF6nJ8cz9r/view?usp=sharing"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="about-me-btn"
+                            >
+                            Resume
+                            </a>
                         </div>
                         <div className = "home-img ">
                             <div className = "img-box shadow">
-                                <img src = {ProfilePic} alt = "profile-pic"/>
+                                <img src = {AboutImage} alt = "profile-pic"/>
                             </div>
                         </div>
                     </div>

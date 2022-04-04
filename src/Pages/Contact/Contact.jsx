@@ -57,6 +57,9 @@ const Contact = () => {
             </div>
           </Col>
         </Row>
+        <div className = "about-desc-icon"> <EmailIcon />
+      <sapn className = "about-desc-span">riyaz.itguy@gmail.com</sapn>
+      </div>
         <div className = "about-desc-icon"> <CallIcon/>
       <sapn className = "about-desc-span">+91 850 0591 806</sapn>
       </div>
