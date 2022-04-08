@@ -24,6 +24,7 @@ import L_JAVASCRIPT from "../../assets/img/skills/javascript.svg";
 import L_TYPESCRIPT from "../../assets/img/skills/typescript.svg";
 import L_GOLANG from "../../assets/img/skills/go-6.svg";
 import L_PYTHON from "../../assets/img/skills/python.svg";
+import EXPRESS from "../../assets/img/skills/express2.png";
 
 export const skills = {
   frontend: [
@@ -77,18 +78,18 @@ export const skills = {
     //   imgSrc: L_REACT_ROUTER,
     //   skillName: "React Router",
     // },
-    {
-      link: "https://react-bootstrap.github.io/",
-      imgAltText: "React Bootstrap",
-      imgSrc: L_REACT_BOOTSTRAP,
-      skillName: "React Bootstrap",
-    },
-    {
-      link: "https://styled-components.com/",
-      imgAltText: "styled-components",
-      imgSrc: L_STYLED_COMPONENTS,
-      skillName: "styled-components",
-    },
+    // {
+    //   link: "https://react-bootstrap.github.io/",
+    //   imgAltText: "React Bootstrap",
+    //   imgSrc: L_REACT_BOOTSTRAP,
+    //   skillName: "React Bootstrap",
+    // },
+    // {
+    //   link: "https://styled-components.com/",
+    //   imgAltText: "styled-components",
+    //   imgSrc: L_STYLED_COMPONENTS,
+    //   skillName: "styled-components",
+    // },
   ],
 
   backend: [
@@ -101,7 +102,7 @@ export const skills = {
     {
       link: "https://expressjs.com/",
       imgAltText: "Express",
-      imgSrc: L_EXPRESS,
+      imgSrc: EXPRESS,
       skillName: "Express",
     },
   ],

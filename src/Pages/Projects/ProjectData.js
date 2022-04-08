@@ -20,7 +20,7 @@ import MATERIALUI from "../../assets/img/skills/materialUi.png";
 import REACT_BOOTSTRAP from "../../assets/img/skills/react-bootstrap.svg";
 import STYLED_COMPONENTS from "../../assets/img/skills/styled-components.svg";
 import NODE_JS from "../../assets/img/skills/nodejs.png";
-import EXPRESS from "../../assets/img/skills/express1.png";
+import EXPRESS from "../../assets/img/skills/express2.png";
 import DJANGO from "../../assets/img/skills/django.svg";
 import FLASK from "../../assets/img/skills/flask.svg";
 import MONGODB from "../../assets/img/skills/mongo.png";
