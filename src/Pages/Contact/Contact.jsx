@@ -61,7 +61,7 @@ const Contact = () => {
       <sapn className = "about-desc-span">riyaz.itguy@gmail.com</sapn>
       </div>
         <div className = "about-desc-icon"> <CallIcon/>
-      <sapn className = "about-desc-span">+91 850 0591 806</sapn>
+      <sapn className = "about-desc-span"><a id = "telPhone" href = "tel:8500591806">+91 850 0591 806</a></sapn>
       </div>
       </Jumbotron>
     </div>
