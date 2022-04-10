@@ -48,13 +48,13 @@ const Contact = () => {
                 </Button>
               </a>
             </div>
-            <div className="m-2">
+            {/* <div className="m-2">
               <a href="https://www.facebook.com/shaik.riyaz.14606/" target="_blank" rel="noopener noreferrer">
                 <Button variant="outline-primary" title="Say hello on FB">
                   <FacebookIcon/>FaceBook
                 </Button>
               </a>
-            </div>
+            </div> */}
           </Col>
         </Row>
         <div className = "about-desc-icon"> <EmailIcon />
